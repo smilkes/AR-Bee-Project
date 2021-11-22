@@ -1,2 +1,6 @@
 # AR-Bee-Project
 Repository for the AR components of the Bee project 
+
+# Ressources
+AR+GPS plugin ($39) https://www.youtube.com/watch?v=7-WCEVuSkK8
+Unity courses Linkedin Learning https://www.linkedin.com/learning/ar-development-techniques-04-advanced-techniques/advanced-ar-development-techniques?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=2163426
