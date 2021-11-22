@@ -9,3 +9,7 @@ Linkedin Learning https://www.linkedin.com/learning/ar-development-techniques-04
 
 AR.js
 https://ar-js-org.github.io/AR.js-Docs/
+
+Bee model
+https://sketchfab.com/3d-models/flying-bee-ba935104d4774583af65828289e8aad5
+
